@@ -1,0 +1,15 @@
+{
+  "name": "weather-cli-app",
+  "version": "1.0.0",
+  "description": "A simple CLI tool to check weather information for any city",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["weather", "cli", "node"],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
